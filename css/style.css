@@ -127,22 +127,10 @@
 }
   /* branding
 ----------------------------------------*/
-.branding 
-@media (min-width: 550px) {
-  .section2 {
-    padding: 12rem 0 11rem;
-}
-#example1 {
-  border: 2px solid black;
-  padding: 25px;
-  background: url(selfie-bg.png);
-  background-repeat: no-repeat;
-  background-size: auto;
-}
-  
+<div id="content">
+         <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fm8tOMuc4oWZNvWXLpfr3BG%2Fsafe-space%3Fnode-id%3D0%253A1%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 }
 }
-
 /* Bigger than 750 */
 @media (min-width: 750px) {
   .hero {
